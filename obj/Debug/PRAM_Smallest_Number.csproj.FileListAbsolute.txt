@@ -1,0 +1,6 @@
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\bin\Debug\PRAM_Smallest_Number.exe.config
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\bin\Debug\PRAM_Smallest_Number.exe
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\bin\Debug\PRAM_Smallest_Number.pdb
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\obj\Debug\PRAM_Smallest_Number.csprojResolveAssemblyReference.cache
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\obj\Debug\PRAM_Smallest_Number.exe
+c:\users\deepika\documents\visual studio 2017\Projects\PRAM_Smallest_Number\PRAM_Smallest_Number\obj\Debug\PRAM_Smallest_Number.pdb
