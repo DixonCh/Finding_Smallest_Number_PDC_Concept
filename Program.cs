@@ -1,4 +1,5 @@
-﻿using System;
+//Program to find the smallest number from the inputs provided by the user
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
